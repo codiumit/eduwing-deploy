@@ -1,0 +1,644 @@
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js
+File Name: C:\Downloaded Web Sites\eduwing.in\ajax\libs\jquery\3.6.0\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\eduwing.in\npm\bootstrap@5.1.3\dist\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css
+File Name: C:\Downloaded Web Sites\eduwing.in\ajax\libs\font-awesome\6.1.1\css\all.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\eduwing.in\ajax\libs\font-awesome\6.1.1\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\eduwing.in\ajax\libs\font-awesome\6.1.1\webfonts\fa-brands-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\eduwing.in\ajax\libs\font-awesome\6.1.1\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\eduwing.in\ajax\libs\font-awesome\6.1.1\webfonts\fa-regular-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\eduwing.in\ajax\libs\font-awesome\6.1.1\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\eduwing.in\ajax\libs\font-awesome\6.1.1\webfonts\fa-solid-900.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/webfonts/fa-v4compatibility.ttf
+File Name: C:\Downloaded Web Sites\eduwing.in\ajax\libs\font-awesome\6.1.1\webfonts\fa-v4compatibility.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/webfonts/fa-v4compatibility.woff2
+File Name: C:\Downloaded Web Sites\eduwing.in\ajax\libs\font-awesome\6.1.1\webfonts\fa-v4compatibility.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.js
+File Name: C:\Downloaded Web Sites\eduwing.in\ajax\libs\slick-carousel\1.6.0\slick.min.js
+Content Type: application/javascript
+
+Uri: https://eduwing.in/
+File Name: C:\Downloaded Web Sites\eduwing.in\index.htm
+Content Type: text/html
+
+Uri: https://eduwing.in/assets/css/owl.video.play.html
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\css\owl.video.play.html
+Content Type: text/html
+
+Uri: https://eduwing.in/assets/css/style.css?v=1.1611
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\css\style.css
+Content Type: text/css
+
+Uri: https://eduwing.in/assets/fonts/Metropolis-Black.eot
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\fonts\Metropolis-Black.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://eduwing.in/assets/fonts/Metropolis-Black.svg
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\fonts\Metropolis-Black.svg
+Content Type: image/svg+xml
+
+Uri: https://eduwing.in/assets/fonts/Metropolis-Black.ttf
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\fonts\Metropolis-Black.ttf
+Content Type: font/ttf
+
+Uri: https://eduwing.in/assets/fonts/Metropolis-Black.woff
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\fonts\Metropolis-Black.woff
+Content Type: font/woff
+
+Uri: https://eduwing.in/assets/fonts/Metropolis-Black.woff2
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\fonts\Metropolis-Black.woff2
+Content Type: font/woff2
+
+Uri: https://eduwing.in/assets/fonts/Metropolis-Blackd41d.eot?
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\fonts\Metropolis-Blackd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://eduwing.in/assets/fonts/Metropolis-Bold.eot
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\fonts\Metropolis-Bold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://eduwing.in/assets/fonts/Metropolis-Bold.svg
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\fonts\Metropolis-Bold.svg
+Content Type: image/svg+xml
+
+Uri: https://eduwing.in/assets/fonts/Metropolis-Bold.ttf
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\fonts\Metropolis-Bold.ttf
+Content Type: font/ttf
+
+Uri: https://eduwing.in/assets/fonts/Metropolis-Bold.woff
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\fonts\Metropolis-Bold.woff
+Content Type: font/woff
+
+Uri: https://eduwing.in/assets/fonts/Metropolis-Bold.woff2
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\fonts\Metropolis-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://eduwing.in/assets/fonts/Metropolis-Boldd41d.eot?
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\fonts\Metropolis-Boldd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://eduwing.in/assets/fonts/Metropolis-ExtraBold.eot
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\fonts\Metropolis-ExtraBold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://eduwing.in/assets/fonts/Metropolis-ExtraBold.svg
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\fonts\Metropolis-ExtraBold.svg
+Content Type: image/svg+xml
+
+Uri: https://eduwing.in/assets/fonts/Metropolis-ExtraBold.ttf
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\fonts\Metropolis-ExtraBold.ttf
+Content Type: font/ttf
+
+Uri: https://eduwing.in/assets/fonts/Metropolis-ExtraBold.woff
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\fonts\Metropolis-ExtraBold.woff
+Content Type: font/woff
+
+Uri: https://eduwing.in/assets/fonts/Metropolis-ExtraBold.woff2
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\fonts\Metropolis-ExtraBold.woff2
+Content Type: font/woff2
+
+Uri: https://eduwing.in/assets/fonts/Metropolis-ExtraBoldd41d.eot?
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\fonts\Metropolis-ExtraBoldd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://eduwing.in/assets/fonts/Metropolis-ExtraLight.eot
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\fonts\Metropolis-ExtraLight.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://eduwing.in/assets/fonts/Metropolis-ExtraLight.svg
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\fonts\Metropolis-ExtraLight.svg
+Content Type: image/svg+xml
+
+Uri: https://eduwing.in/assets/fonts/Metropolis-ExtraLight.ttf
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\fonts\Metropolis-ExtraLight.ttf
+Content Type: font/ttf
+
+Uri: https://eduwing.in/assets/fonts/Metropolis-ExtraLight.woff
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\fonts\Metropolis-ExtraLight.woff
+Content Type: font/woff
+
+Uri: https://eduwing.in/assets/fonts/Metropolis-ExtraLight.woff2
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\fonts\Metropolis-ExtraLight.woff2
+Content Type: font/woff2
+
+Uri: https://eduwing.in/assets/fonts/Metropolis-ExtraLightd41d.eot?
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\fonts\Metropolis-ExtraLightd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://eduwing.in/assets/fonts/Metropolis-Light.eot
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\fonts\Metropolis-Light.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://eduwing.in/assets/fonts/Metropolis-Light.svg
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\fonts\Metropolis-Light.svg
+Content Type: image/svg+xml
+
+Uri: https://eduwing.in/assets/fonts/Metropolis-Light.ttf
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\fonts\Metropolis-Light.ttf
+Content Type: font/ttf
+
+Uri: https://eduwing.in/assets/fonts/Metropolis-Light.woff
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\fonts\Metropolis-Light.woff
+Content Type: font/woff
+
+Uri: https://eduwing.in/assets/fonts/Metropolis-Light.woff2
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\fonts\Metropolis-Light.woff2
+Content Type: font/woff2
+
+Uri: https://eduwing.in/assets/fonts/Metropolis-Lightd41d.eot?
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\fonts\Metropolis-Lightd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://eduwing.in/assets/fonts/Metropolis-Medium.eot
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\fonts\Metropolis-Medium.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://eduwing.in/assets/fonts/Metropolis-Medium.svg
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\fonts\Metropolis-Medium.svg
+Content Type: image/svg+xml
+
+Uri: https://eduwing.in/assets/fonts/Metropolis-Medium.ttf
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\fonts\Metropolis-Medium.ttf
+Content Type: font/ttf
+
+Uri: https://eduwing.in/assets/fonts/Metropolis-Medium.woff
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\fonts\Metropolis-Medium.woff
+Content Type: font/woff
+
+Uri: https://eduwing.in/assets/fonts/Metropolis-Medium.woff2
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\fonts\Metropolis-Medium.woff2
+Content Type: font/woff2
+
+Uri: https://eduwing.in/assets/fonts/Metropolis-Mediumd41d.eot?
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\fonts\Metropolis-Mediumd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://eduwing.in/assets/fonts/Metropolis-Regular.eot
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\fonts\Metropolis-Regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://eduwing.in/assets/fonts/Metropolis-Regular.svg
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\fonts\Metropolis-Regular.svg
+Content Type: image/svg+xml
+
+Uri: https://eduwing.in/assets/fonts/Metropolis-Regular.ttf
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\fonts\Metropolis-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://eduwing.in/assets/fonts/Metropolis-Regular.woff
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\fonts\Metropolis-Regular.woff
+Content Type: font/woff
+
+Uri: https://eduwing.in/assets/fonts/Metropolis-Regular.woff2
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\fonts\Metropolis-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://eduwing.in/assets/fonts/Metropolis-Regulard41d.eot?
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\fonts\Metropolis-Regulard41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://eduwing.in/assets/fonts/Metropolis-SemiBold.eot
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\fonts\Metropolis-SemiBold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://eduwing.in/assets/fonts/Metropolis-SemiBold.svg
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\fonts\Metropolis-SemiBold.svg
+Content Type: image/svg+xml
+
+Uri: https://eduwing.in/assets/fonts/Metropolis-SemiBold.ttf
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\fonts\Metropolis-SemiBold.ttf
+Content Type: font/ttf
+
+Uri: https://eduwing.in/assets/fonts/Metropolis-SemiBold.woff
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\fonts\Metropolis-SemiBold.woff
+Content Type: font/woff
+
+Uri: https://eduwing.in/assets/fonts/Metropolis-SemiBold.woff2
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\fonts\Metropolis-SemiBold.woff2
+Content Type: font/woff2
+
+Uri: https://eduwing.in/assets/fonts/Metropolis-SemiBoldd41d.eot?
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\fonts\Metropolis-SemiBoldd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://eduwing.in/assets/fonts/Metropolis-Thin.eot
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\fonts\Metropolis-Thin.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://eduwing.in/assets/fonts/Metropolis-Thin.svg
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\fonts\Metropolis-Thin.svg
+Content Type: image/svg+xml
+
+Uri: https://eduwing.in/assets/fonts/Metropolis-Thin.ttf
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\fonts\Metropolis-Thin.ttf
+Content Type: font/ttf
+
+Uri: https://eduwing.in/assets/fonts/Metropolis-Thin.woff
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\fonts\Metropolis-Thin.woff
+Content Type: font/woff
+
+Uri: https://eduwing.in/assets/fonts/Metropolis-Thin.woff2
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\fonts\Metropolis-Thin.woff2
+Content Type: font/woff2
+
+Uri: https://eduwing.in/assets/fonts/Metropolis-Thind41d.eot?
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\fonts\Metropolis-Thind41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://eduwing.in/assets/fonts/StayClassySLDT.eot
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\fonts\StayClassySLDT.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://eduwing.in/assets/fonts/StayClassySLDT.svg
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\fonts\StayClassySLDT.svg
+Content Type: image/svg+xml
+
+Uri: https://eduwing.in/assets/fonts/StayClassySLDT.ttf
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\fonts\StayClassySLDT.ttf
+Content Type: font/ttf
+
+Uri: https://eduwing.in/assets/fonts/StayClassySLDT.woff
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\fonts\StayClassySLDT.woff
+Content Type: font/woff
+
+Uri: https://eduwing.in/assets/fonts/StayClassySLDT.woff2
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\fonts\StayClassySLDT.woff2
+Content Type: font/woff2
+
+Uri: https://eduwing.in/assets/fonts/StayClassySLDTd41d.eot?
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\fonts\StayClassySLDTd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://eduwing.in/assets/img/about-image.jpg
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\img\about-image.jpg
+Content Type: image/jpeg
+
+Uri: https://eduwing.in/assets/img/angle-right-list.svg
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\img\angle-right-list.svg
+Content Type: image/svg+xml
+
+Uri: https://eduwing.in/assets/img/approvals/10.png
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\img\approvals\10.png
+Content Type: image/png
+
+Uri: https://eduwing.in/assets/img/approvals/11.png
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\img\approvals\11.png
+Content Type: image/png
+
+Uri: https://eduwing.in/assets/img/approvals/12.png
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\img\approvals\12.png
+Content Type: image/png
+
+Uri: https://eduwing.in/assets/img/approvals/13.png
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\img\approvals\13.png
+Content Type: image/png
+
+Uri: https://eduwing.in/assets/img/approvals/7.png
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\img\approvals\7.png
+Content Type: image/png
+
+Uri: https://eduwing.in/assets/img/approvals/8.png
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\img\approvals\8.png
+Content Type: image/png
+
+Uri: https://eduwing.in/assets/img/approvals/9.png
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\img\approvals\9.png
+Content Type: image/png
+
+Uri: https://eduwing.in/assets/img/BA-HES.jpg
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\img\BA-HES.jpg
+Content Type: image/jpeg
+
+Uri: https://eduwing.in/assets/img/banner-slide-1.jpg
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\img\banner-slide-1.jpg
+Content Type: image/jpeg
+
+Uri: https://eduwing.in/assets/img/banner-slide-2.jpg
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\img\banner-slide-2.jpg
+Content Type: image/jpeg
+
+Uri: https://eduwing.in/assets/img/BCA-FES.jpg
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\img\BCA-FES.jpg
+Content Type: image/jpeg
+
+Uri: https://eduwing.in/assets/img/bed.jpg
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\img\bed.jpg
+Content Type: image/jpeg
+
+Uri: https://eduwing.in/assets/img/bg.png
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\img\bg.png
+Content Type: image/png
+
+Uri: https://eduwing.in/assets/img/cu-logo.png
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\img\cu-logo.png
+Content Type: image/png
+
+Uri: https://eduwing.in/assets/img/favicon.png
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\img\favicon.png
+Content Type: image/png
+
+Uri: https://eduwing.in/assets/img/gallery/45.jpg
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\img\gallery\45.jpg
+Content Type: image/jpeg
+
+Uri: https://eduwing.in/assets/img/gallery/gal1.jpg
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\img\gallery\gal1.jpg
+Content Type: image/jpeg
+
+Uri: https://eduwing.in/assets/img/gallery/gal13.jpg
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\img\gallery\gal13.jpg
+Content Type: image/jpeg
+
+Uri: https://eduwing.in/assets/img/gallery/gal14.jpg
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\img\gallery\gal14.jpg
+Content Type: image/jpeg
+
+Uri: https://eduwing.in/assets/img/gallery/gal15.jpg
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\img\gallery\gal15.jpg
+Content Type: image/jpeg
+
+Uri: https://eduwing.in/assets/img/gallery/gal16.jpg
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\img\gallery\gal16.jpg
+Content Type: image/jpeg
+
+Uri: https://eduwing.in/assets/img/gallery/gal17.jpg
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\img\gallery\gal17.jpg
+Content Type: image/jpeg
+
+Uri: https://eduwing.in/assets/img/gallery/gal18.jpg
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\img\gallery\gal18.jpg
+Content Type: image/jpeg
+
+Uri: https://eduwing.in/assets/img/gallery/gal19.jpg
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\img\gallery\gal19.jpg
+Content Type: image/jpeg
+
+Uri: https://eduwing.in/assets/img/gallery/gal2.jpg
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\img\gallery\gal2.jpg
+Content Type: image/jpeg
+
+Uri: https://eduwing.in/assets/img/gallery/gal20.jpg
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\img\gallery\gal20.jpg
+Content Type: image/jpeg
+
+Uri: https://eduwing.in/assets/img/gallery/gal21.jpg
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\img\gallery\gal21.jpg
+Content Type: image/jpeg
+
+Uri: https://eduwing.in/assets/img/gallery/gal22.jpg
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\img\gallery\gal22.jpg
+Content Type: image/jpeg
+
+Uri: https://eduwing.in/assets/img/gallery/LOTU8305_4_11zon.jpg
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\img\gallery\LOTU8305_4_11zon.jpg
+Content Type: image/jpeg
+
+Uri: https://eduwing.in/assets/img/gallery/LOTU8365_2_11zon.jpg
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\img\gallery\LOTU8365_2_11zon.jpg
+Content Type: image/jpeg
+
+Uri: https://eduwing.in/assets/img/gallery/LOTU8369_1_11zon.jpg
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\img\gallery\LOTU8369_1_11zon.jpg
+Content Type: image/jpeg
+
+Uri: https://eduwing.in/assets/img/gallery/LOTU8486_3_11zon.jpg
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\img\gallery\LOTU8486_3_11zon.jpg
+Content Type: image/jpeg
+
+Uri: https://eduwing.in/assets/img/gallery/LOTU8513_4_11zon.jpg
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\img\gallery\LOTU8513_4_11zon.jpg
+Content Type: image/jpeg
+
+Uri: https://eduwing.in/assets/img/gallery/LOTU9196_11zon.jpg
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\img\gallery\LOTU9196_11zon.jpg
+Content Type: image/jpeg
+
+Uri: https://eduwing.in/assets/img/girl-holding-book.png
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\img\girl-holding-book.png
+Content Type: image/png
+
+Uri: https://eduwing.in/assets/img/group-thumb.jpg
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\img\group-thumb.jpg
+Content Type: image/jpeg
+
+Uri: https://eduwing.in/assets/img/home-thumb-1.jpg
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\img\home-thumb-1.jpg
+Content Type: image/jpeg
+
+Uri: https://eduwing.in/assets/img/home-thumb-2.jpg
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\img\home-thumb-2.jpg
+Content Type: image/jpeg
+
+Uri: https://eduwing.in/assets/img/home-thumb-3.jpg
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\img\home-thumb-3.jpg
+Content Type: image/jpeg
+
+Uri: https://eduwing.in/assets/img/home-thumb-4.jpg
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\img\home-thumb-4.jpg
+Content Type: image/jpeg
+
+Uri: https://eduwing.in/assets/img/home-thumb-5.jpg
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\img\home-thumb-5.jpg
+Content Type: image/jpeg
+
+Uri: https://eduwing.in/assets/img/home-thumb-6.jpg
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\img\home-thumb-6.jpg
+Content Type: image/jpeg
+
+Uri: https://eduwing.in/assets/img/icons/1.png
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\img\icons\1.png
+Content Type: image/png
+
+Uri: https://eduwing.in/assets/img/icons/2.png
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\img\icons\2.png
+Content Type: image/png
+
+Uri: https://eduwing.in/assets/img/icons/3.png
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\img\icons\3.png
+Content Type: image/png
+
+Uri: https://eduwing.in/assets/img/icons/4.png
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\img\icons\4.png
+Content Type: image/png
+
+Uri: https://eduwing.in/assets/img/icons/5.png
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\img\icons\5.png
+Content Type: image/png
+
+Uri: https://eduwing.in/assets/img/icons/6.png
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\img\icons\6.png
+Content Type: image/png
+
+Uri: https://eduwing.in/assets/img/icons/7.png
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\img\icons\7.png
+Content Type: image/png
+
+Uri: https://eduwing.in/assets/img/icons/8.png
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\img\icons\8.png
+Content Type: image/png
+
+Uri: https://eduwing.in/assets/img/icons/9.png
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\img\icons\9.png
+Content Type: image/png
+
+Uri: https://eduwing.in/assets/img/kalam.jpg
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\img\kalam.jpg
+Content Type: image/jpeg
+
+Uri: https://eduwing.in/assets/img/M-Ed-3.jpg
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\img\M-Ed-3.jpg
+Content Type: image/jpeg
+
+Uri: https://eduwing.in/assets/img/MA-HES.jpg
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\img\MA-HES.jpg
+Content Type: image/jpeg
+
+Uri: https://eduwing.in/assets/img/MBA-HES.jpg
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\img\MBA-HES.jpg
+Content Type: image/jpeg
+
+Uri: https://eduwing.in/assets/img/MCA-HES.jpg
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\img\MCA-HES.jpg
+Content Type: image/jpeg
+
+Uri: https://eduwing.in/assets/img/MCOM-HES.jpg
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\img\MCOM-HES.jpg
+Content Type: image/jpeg
+
+Uri: https://eduwing.in/assets/img/MSC-HES.jpg
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\img\MSC-HES.jpg
+Content Type: image/jpeg
+
+Uri: https://eduwing.in/assets/img/muhammad.jpg
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\img\muhammad.jpg
+Content Type: image/jpeg
+
+Uri: https://eduwing.in/assets/img/play-alt.svg
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\img\play-alt.svg
+Content Type: image/svg+xml
+
+Uri: https://eduwing.in/assets/img/program-thumb-8.jpg
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\img\program-thumb-8.jpg
+Content Type: image/jpeg
+
+Uri: https://eduwing.in/assets/img/program-thumb-9.jpg
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\img\program-thumb-9.jpg
+Content Type: image/jpeg
+
+Uri: https://eduwing.in/assets/img/rm.png
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\img\rm.png
+Content Type: image/png
+
+Uri: https://eduwing.in/assets/img/roger.jpg
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\img\roger.jpg
+Content Type: image/jpeg
+
+Uri: https://eduwing.in/assets/img/successful.png
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\img\successful.png
+Content Type: image/png
+
+Uri: https://eduwing.in/assets/img/thumb-1.jpg
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\img\thumb-1.jpg
+Content Type: image/jpeg
+
+Uri: https://eduwing.in/assets/img/thumb-2.jpg
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\img\thumb-2.jpg
+Content Type: image/jpeg
+
+Uri: https://eduwing.in/assets/img/thumb-3.jpg
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\img\thumb-3.jpg
+Content Type: image/jpeg
+
+Uri: https://eduwing.in/assets/img/top-arrow.svg
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\img\top-arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://eduwing.in/assets/img/university/1.png
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\img\university\1.png
+Content Type: image/png
+
+Uri: https://eduwing.in/assets/img/university/2.png
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\img\university\2.png
+Content Type: image/png
+
+Uri: https://eduwing.in/assets/img/university/3.png
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\img\university\3.png
+Content Type: image/png
+
+Uri: https://eduwing.in/assets/img/university/4.png
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\img\university\4.png
+Content Type: image/png
+
+Uri: https://eduwing.in/assets/img/university/5.png
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\img\university\5.png
+Content Type: image/png
+
+Uri: https://eduwing.in/assets/img/university/6.png
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\img\university\6.png
+Content Type: image/png
+
+Uri: https://eduwing.in/assets/img/vi-3.jpg
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\img\vi-3.jpg
+Content Type: image/jpeg
+
+Uri: https://eduwing.in/assets/img/vi-4.jpg
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\img\vi-4.jpg
+Content Type: image/jpeg
+
+Uri: https://eduwing.in/assets/img/video-thumb-1.jpg
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\img\video-thumb-1.jpg
+Content Type: image/jpeg
+
+Uri: https://eduwing.in/assets/img/video-thumb-2.jpg
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\img\video-thumb-2.jpg
+Content Type: image/jpeg
+
+Uri: https://eduwing.in/assets/img/vision-img.jpg
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\img\vision-img.jpg
+Content Type: image/jpeg
+
+Uri: https://eduwing.in/assets/js/owl.carousel.min.js
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://eduwing.in/assets/pdf/COMPANY_PROFILE.pdf
+File Name: C:\Downloaded Web Sites\eduwing.in\assets\pdf\COMPANY_PROFILE.pdf
+Content Type: application/pdf
+
+Uri: https://eduwing.in/index.html
+File Name: C:\Downloaded Web Sites\eduwing.in\index.html
+Content Type: text/html
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-0Y83PZLVCD
+File Name: C:\Downloaded Web Sites\eduwing.in\gtag\js
+Content Type: application/javascript
+
